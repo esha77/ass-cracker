@@ -15,7 +15,7 @@ directions depending on how well-defined the problem and potential
 solution are. If the change is simple and well understood, maintainers
 will indicate their support with a heartfelt emoji.
 
-When the problem is well understood but the solution leads to large structural
+When the problem is wells understood but the solution leads to large structural
 changes to the code base, these changes should be proposed in the form of an
 [Architectural Decision Record (ADR)](./docs/adr/). The ADR will help
 build consensus on an overall strategy to ensure the code base maintains
