@@ -17,7 +17,7 @@ msy
 clean:
 	@echo "--> Cleaning up ./build"
 	@rm -rf build/*
-
+drt
 ## install: Build and install the celestia-node binary into the GOBIN directory.
 install:
 	@echo "--> Installing Celestia"
