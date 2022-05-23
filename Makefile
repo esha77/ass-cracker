@@ -15,6 +15,7 @@ build:
 msy
 ## clean: Clean up celestia-node binary.
 clean:
+hyu
 	@echo "--> Cleaning up ./build"
 	@rm -rf build/*
 drt
